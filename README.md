@@ -14,8 +14,14 @@ The following processes were followed to achieve the desired result:
 8.	Save model weights
 9.	Evaluation using a confusion matrix
 
+## Result
+### Output for 'I love you' sign
+![image](https://user-images.githubusercontent.com/35176680/210238092-8f0a4665-ef00-4348-a921-c605ee4a26c8.png)
 
-![image](https://user-images.githubusercontent.com/35176680/210173499-f34775d3-da0b-407b-8fab-330ebac5143a.png)
-![image](https://user-images.githubusercontent.com/35176680/210173510-43c2610e-3bf2-4e8a-a525-9ea10103e43b.png)
-![image](https://user-images.githubusercontent.com/35176680/210173516-e3c7bcc4-7e24-4a15-a3c9-11f576274886.png)
+### Output for 'hello' sign
+![image](https://user-images.githubusercontent.com/35176680/210238095-c61e8f20-f2b0-4713-a560-ae9213a6b169.png)
+
+### Output for 'thanks' sign
+![image](https://user-images.githubusercontent.com/35176680/210238102-d433681f-1da0-4003-b03f-ad86f2a6920d.png)
+
 
